@@ -1,6 +1,6 @@
-@ProgramAndApplicationForm_HostAddress = http://localhost:5239
+@ProgramAndApplicationForm_HostAddress = https://localhost:7077
 
-GET {{ProgramAndApplicationForm_HostAddress}}/weatherforecast/
+GET {{ProgramAndApplicationForm_HostAddress}}/Questions/
 Accept: application/json
 
 ###
